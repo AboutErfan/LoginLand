@@ -5,6 +5,6 @@ Login Land Contain:
 - Reset Password Page
 - Full Responsive
 - Useful For Laravel Or Wordpress Projects
-- [For See Demo Click Here](https://www.metastudio.ir/LoginLand)
+- [Demo Of Project](https://www.metastudio.ir/LoginLand)
 # Share With Your Friend
 Share this project with your developer friend and don't forget star project 😜.
