@@ -7,4 +7,4 @@ Login Land Contain:
 - Useful For Laravel Or Wordpress Projects
 - [Demo Of Project](https://www.metastudio.ir/LoginLand)
 # Share With Your Friend
-Share this project with your developer friend and don't forget star project 😜.
+Share this project with your developer friend and don't forget give star to project 😜.
